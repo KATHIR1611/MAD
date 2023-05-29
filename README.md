@@ -111,11 +111,11 @@ public class MainActivity extends AppCompatActivity {
 
 ### OUTPUT:
 
-![](mad 1.png)
+![](https://github.com/KATHIR1611/MAD/blob/main/mad%201.png)
 
 
 
-![](mad 2.png)
+![](https://github.com/KATHIR1611/MAD/blob/main/mad%202.png)
 
 
 ### RESULT:
