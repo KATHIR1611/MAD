@@ -1,10 +1,10 @@
-# Ex.No:3 Develop program to create a text field and a button “Navigate”. When you enter “www.google.com” and press navigate button it should open google page using Implicit Intents.
+# Ex.No:3 Develop program to create a text field and a button “Navigate”. When you enter “www.google.com” and press navigate button it should open google page using Implicit Intents
 
 ### AIM:
 To create a navigate button using Implicit Intent to display the google page using Android Studio.
 
 ### EQUIPMENTS REQUIRED:
-Latest Version Android Studio
+Latest Version Android Studio.
 
 ### ALGORITHM:
 Step 1: Open Android Stdio and then click on File -> New -> New project.
@@ -28,7 +28,7 @@ Developed by:Kathirvelan.K
 
 Registeration Number :212221220026
 
-Activity_main.xml
+activity_main.xml
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -78,7 +78,7 @@ Activity_main.xml
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
-Mainactivity.java
+MainActivity.java
 ```
 package com.example.androidintent;
 
